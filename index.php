@@ -33,7 +33,7 @@ h1
 </head>
 <body>
 <div id="wrapper">
-  <img src="https://github.com/sharkannon/vic-devops-days/blob/master/Nomad-creamery-@2x.png" alt="logo" />
+  <img src="https://raw.githubusercontent.com/sharkannon/vic-devops-days/master/Nomad-Creamery-White.png" alt="logo" />
 </div>
 </body>
 </html>
