@@ -33,7 +33,7 @@ h1
 </head>
 <body>
 <div id="wrapper">
- <h1>Nomad Creamery</h1>
+  <img src="Nomad-creamery-@2x.jpg" alt="logo" />
 </div>
 </body>
 </html>
