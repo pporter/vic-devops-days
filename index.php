@@ -1,27 +1,39 @@
 <html>
 <head>
 <style>
-body, html {
-  height: 100%;
+body
+{
+ text-align:center;
+ width:100%;
+ margin:0 auto;
+ padding:0px;
+ font-family:helvetica;
+ background-color:#81DAF5;
+
+ background: url(https://www.centralsmith.ca/template/style/img/ABOUTUS_BACKGROUND.jpg) no-repeat center center fixed; 
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
 }
-
-.bg { 
-  /* The image used */
-  background-image: url("https://www.centralsmith.ca/template/style/img/ABOUTUS_BACKGROUND.jpg");
-
-  /* Full height */
-  height: 100%; 
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+#wrapper
+{
+ text-align:center;
+ margin:0 auto;
+ padding:0px;
+ width:995px;
+}
+h1
+{
+ margin-top:150px;	
+ color:white;
+ font-size:45px;
 }
 </style>
 </head>
 <body>
 <div id="wrapper">
- <h1>Full Page Background Image Using HTML And CSS TalkersCode.com</h1>
+ <h1>Nomad Creamery</h1>
 </div>
 </body>
 </html>
