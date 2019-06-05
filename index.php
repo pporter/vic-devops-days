@@ -34,6 +34,6 @@ h1
 <body>
 <div id="wrapper">
   <img src="https://raw.githubusercontent.com/sharkannon/vic-devops-days/master/Nomad-Creamery-White.png" alt="logo" />
+  <h1>Coming soon</h1>
 </div>
-</body>
 </html>
