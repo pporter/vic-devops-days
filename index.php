@@ -1,3 +1,6 @@
+<html>
+<head>
+<style>
 body, html {
   height: 100%;
 }
@@ -14,3 +17,11 @@ body, html {
   background-repeat: no-repeat;
   background-size: cover;
 }
+</style>
+</head>
+<body>
+<div id="wrapper">
+ <h1>Full Page Background Image Using HTML And CSS TalkersCode.com</h1>
+</div>
+</body>
+</html>
